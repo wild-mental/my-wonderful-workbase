@@ -54,3 +54,9 @@
 * `concepts/Health-Supplement-Market-Painpoints.md` — 공개 조사 수치, AOS-DOS 검증, 레몬 마켓 연결 보강
 * 전체 위키 교차 참조(Cross-reference) 완결성 확보
 * 작업자: Antigravity Agent
+
+## [2026-04-29] query | 랜딩 페이지 기획 문서 도출
+* 사용자의 요청에 따라 지식베이스(PRD, VPS, CJM, JTBD 등)를 종합하여 고전환 랜딩 페이지를 위한 핵심 전략 문서를 생성.
+* 신규 개념(Concept) 도출: `concepts/Landing-Page-Strategy.md`
+* `wiki/index.md` 카탈로그 연동 완료.
+* 작업자: Antigravity Agent

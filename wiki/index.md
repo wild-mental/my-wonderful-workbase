@@ -39,6 +39,7 @@
 * [레몬 마켓과 신뢰 설계](concepts/Lemon-Market-Trust-Design.md): Akerlof 레몬 마켓 이론의 건기식 시장 적용 및 신뢰 설계 원칙.
 
 ### 비즈니스 전략
+* [랜딩 페이지 기획 요약 (Landing Page Strategy)](concepts/Landing-Page-Strategy.md): 고전환 랜딩 페이지 구축을 위한 가치 제안, 페르소나, 시장 인사이트 및 CTA 종합 요약.
 * [에셋 라이트(Asset-Light) 모델](concepts/Asset-Light-Model.md): 직접 물류 없이 정보 중개와 제휴 수수료로 수익을 창출하는 비즈니스 모델.
 * [Q4→Q1 전환 플라이휠](concepts/Q4-Q1-Conversion-Flywheel.md): 초보 사용자(Q4)가 전문 사용자(Q1)로 전환되는 성장 엔진 메커니즘.
 
